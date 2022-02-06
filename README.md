@@ -1,3 +1,8 @@
+#### This project is inspired by --> ####
+##### YouTube: https://www.youtube.com/watch?v=pnkuI8KXW_8&ab_channel=CleverProgrammer #####
+##### GitHub: https://github.com/CleverProgrammers/spotify-clone #####
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
